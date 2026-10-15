@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0b5a109f9bf4b1e19f7df88f",
+  "owner": "resxpnwwj",
+  "repo": "page-5fe8c0a9846e525478abd204",
+  "title": "机场榜单",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5fe8c0a9846e525478abd204",
+      "a": "机场榜单",
+      "b": "",
+      "entity": "机场榜单",
+      "brand": "机场榜单",
+      "separator": "",
+      "path": "index.html",
+      "hash": "81bfa970e022695e85afe3870248092470a29f08ae35ae97bd53e526395acd4c",
+      "content": {
+        "keyword1": "机场榜单",
+        "keyword2": "",
+        "primary_entity": "机场榜单",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场榜单提供机场加速器服务，包含基础版、旗舰版、团队版套餐，官方客户端下载与节点推荐，助您高速网络畅享。",
+          "AI_DESCRIPTION": "机场榜单提供机场加速器服务，包含基础版、旗舰版、团队版套餐，官方客户端下载与节点推荐，助您高速网络畅享。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n<style>\n* { margin:0; padding:0; box-sizing:border-box; }\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  background: #0a2540;\n  color: #fff;\n  line-height: 1.6;\n  max-width: 800px;\n  margin: 0 auto;\n  padding: 20px;\n}\nh1 { font-size: 2.5em; text-align: center; margin-bottom: 20px; color: #00d4ff; }\nh2 { font-size: 1.8em; margin: 30px 0 15px; color: #00d4ff; }\nh3 { font-size: 1.4em; margin: 20px 0 10px; }\np { margin-bottom: 15px; }\nul, ol { padding-left: 20px; margin-bottom: 20px; }\nli { margin-bottom: 8px; }\n.price { font-size: 1.5em; color: #00d4ff; font-weight: bold; }\n.button {\n  background: #00d4ff;\n  color: #0a2540;\n  padding: 12px 24px;\n  border-radius: 4px;\n  text-decoration: none;\n  display: inline-block;\n  margin: 10px 0;\n}\ndetails {\n  background: #13294a;\n  border-radius: 8px;\n  margin-bottom: 15px;\n  padding: 15px;\n}\nsummary {\n  font-weight: bold;\n  cursor: pointer;\n  color: #00d4ff;\n}\n@media (max-width: 600px) {\n  body { padding: 10px; }\n  h1 { font-size: 2em; }\n}\n</style>\n\n\n<main>\n<h1>机场榜单</h1>\n<section>\n<p>机场榜单为您提供专业的VPN加速器服务，助您畅享高速稳定的网络体验。从基础版到旗舰版、团队版，我们覆盖各种需求场景。立即选择适合您的套餐，享受VIP级加速！</p>\n</section>\n<section>\n<h2>订阅计划</h2>\n<div>\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p>按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a href=\"#\" class=\"button\">了解详情</a>\n</div>\n<div>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p>按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<a href=\"#\" class=\"button\">了解详情</a>\n</div>\n<div>\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p>按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a href=\"#\" class=\"button\">了解详情</a>\n</div>\n</section>\n<section>\n<h2>使用场景</h2>\n<h3>家庭娱乐</h3>\n<p>在家观看Netflix、YouTube等流媒体平台，畅享高清无缓冲体验。</p>\n<h3>远程办公</h3>\n<p>支持多设备同时在线，确保工作稳定不中断。</p>\n<h3>游戏加速</h3>\n<p>旗舰版IPLC专线优化游戏延迟，享受丝滑游戏体验。</p>\n</section>\n<section>\n<h2>操作说明</h2>\n<ol>\n<li>访问官网选择套餐</li>\n<li>完成支付</li>\n<li>下载客户端</li>\n<li>导入订阅链接连接节点</li>\n</ol>\n</section>\n<section>\n<h2>常见问题</h2>\n<details>\n<summary>如何选择合适的套餐？</summary>\n<p>根据您的流量需求和设备数量选择。基础版适合个人用户，旗舰版适合重度使用，团队版适合企业。</p>\n</details>\n<details>\n<summary>客户端如何下载？</summary>\n<p>在官网下载页面直接获取官方客户端，支持Windows、Mac、iOS、Android。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>基础版支持3台，旗舰版5台，团队版20台。同时在线设备数量以套餐为准。</p>\n</details>\n<details>\n<summary>如何解锁流媒体？</summary>\n<p>旗舰版及以上套餐提供全节点原生解锁，基础版可解锁部分平台。</p>\n</details>\n<details>\n<summary>售后支持如何？</summary>\n<p>7x24工单支持，旗舰版以上提供专属客户经理服务。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "abad4aebac5e104ebfecbd793092b98107b05f456ffb303c67f26eeb1c7d6f0a",
+          "seo": {
+            "title": "机场榜单 - 机场加速器 VPN 客户端下载 官方下载",
+            "keywords": "机场榜单, 机场加速器, VPN加速器, 客户端下载, 官网下载",
+            "description": "机场榜单提供机场加速器服务，包含基础版、旗舰版、团队版套餐，官方客户端下载与节点推荐，助您高速网络畅享。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cmzlk.cn",
+    "host": "p-916abc2a50.cmzlk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cce78463c218b766753a77ed6e930ef06a9fe21b8eebf3ccf3a6a15f3e6b3f21",
+    "sitemap.xml": "989da5d3eaa28848070db550d09d166741a2b936ef612e5094d8513577b55809",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "da1bf3f6c079837d7e1e3a625993548a77890f28e71759c4ca85a5f0421f8860",
+    "robots.txt": "8483fb1a94335787e70935962b205736581617405b38f17a2011f6262685a940",
+    "acdc3b9b862d403e4dbe729428c892aa.txt": "c5c41f2ddf76ab48b1a1d4bcf9d003599629e9412cd0ad59562f4533d1e1f650"
+  },
+  "revision": "3534af62d32acfef068aa67b8c64413a1853a4086f6f8c3b3575834729887408"
+}
